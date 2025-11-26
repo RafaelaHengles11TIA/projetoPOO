@@ -87,7 +87,8 @@ Imprime o XML de cancelamento do SAT, usando o conteúdo do XML e também a assi
 -passo a passo-
 1- acessar o código do github (https://github.com/RafaelaHengles11TIA/projetoPOO/edit/main/README.md)
 2- extrair o código clicando no botão verde escrito <code> e colocar para extrair como no exemplo abaixo
-<img width="544" height="442" alt="image" src="https://github.com/user-attachments/assets/6c1df1da-2637-4544-bdfd-f1405defa775" />
+
+
 
 
 
