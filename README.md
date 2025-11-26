@@ -86,7 +86,16 @@ Imprime o XML de cancelamento do SAT, usando o conteúdo do XML e também a assi
 
 -passo a passo-
 1- acessar o código do github (https://github.com/RafaelaHengles11TIA/projetoPOO/edit/main/README.md)
-2- extrair o código clicando no botão verde escrito <code> e colocar para extrair como no exemplo abaixo
+2- extrair o código clicando no botão verde escrito <code> e colocar para extrair(Dowload Zip) como no exemplo abaixo:
+<img width="579" height="418" alt="image" src="https://github.com/user-attachments/assets/9cbbc00e-e34c-4855-a83c-83f26b765f6c" />
+
+3- quando o dowload estiver completo, ir para a pasta salva, clicar com botão direito e clicar em extrair tudo
+<img width="423" height="269" alt="image" src="https://github.com/user-attachments/assets/20f422e0-bd04-421e-a4b6-63d43e18fdda" />
+
+4- instalar o Intelliji community 2025 no computador
+
+
+
 
 
 
