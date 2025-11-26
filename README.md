@@ -1,6 +1,13 @@
 ﻿# projetoPOO
 
  ##Autores
+ Alexandre
+ Hianna
+ Luiza
+ Maria Clara
+ Rafaela
+
+ -Descrição-
  ### AbreConexaoImpressora
 
 Inicia a comunicação com a impressora usando os parâmetros de tipo, modelo, conexão e configuração. Retorna zero quando a conexão é aberta com sucesso.
@@ -76,5 +83,10 @@ Recebe o conteúdo de um arquivo XML de venda do SAT e realiza a impressão comp
 ### ImprimeXMLCancelamentoSAT
 
 Imprime o XML de cancelamento do SAT, usando o conteúdo do XML e também a assinatura necessária para o QR Code.
+
+-passo a passo-
+1- acessar o código do github (https://github.com/RafaelaHengles11TIA/projetoPOO/edit/main/README.md)
+2- extrair o código clicando no botão verde escrito <code> e colocar para extrair como no exemplo abaixo
+
 
 
