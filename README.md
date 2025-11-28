@@ -93,6 +93,9 @@ Imprime o XML de cancelamento do SAT, usando o conteúdo do XML e também a assi
 <img width="423" height="269" alt="image" src="https://github.com/user-attachments/assets/20f422e0-bd04-421e-a4b6-63d43e18fdda" />
 
 4- instalar o Intelliji community 2025 no computador
+5 - colocar o projeto para rodar no Intelliji
+
+
 
 
 
